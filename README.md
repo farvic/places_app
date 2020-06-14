@@ -1,16 +1,19 @@
-# places_app
+# Great Places App
 
-A new Flutter project.
+A great places app developed during the Flutter & Dart course.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- This app let the users add and list their favorite places.
+- The user has to choose a title, take a picture and select a location on the map.
+- The main screen will then show a list of previously added places.
 
-A few resources to get you started if this is your first Flutter project:
+## Technical Stuff
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- This app has examples of using native device features such as camera and location.
+- It also has an example of local database creation and how to work a work with device storage and file system.
+- This app also uses has a integration with the Google Maps API to show the map and saving a location.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What Could Be Better
+
+- Needs an option to remove a saved place which is going to be added later.
